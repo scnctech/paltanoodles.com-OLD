@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Palta Noodles</title>
+    <link>https://paltanoodles.com/categories/</link>
+    <description>Recent content in Categories on Palta Noodles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2019 18:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://paltanoodles.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>argentina</title>
+      <link>https://paltanoodles.com/categories/argentina/</link>
+      <pubDate>Tue, 23 Jul 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://paltanoodles.com/categories/argentina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>buenos aires</title>
+      <link>https://paltanoodles.com/categories/buenos-aires/</link>
+      <pubDate>Tue, 23 Jul 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://paltanoodles.com/categories/buenos-aires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>introduction</title>
+      <link>https://paltanoodles.com/categories/introduction/</link>
+      <pubDate>Tue, 23 Jul 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://paltanoodles.com/categories/introduction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
