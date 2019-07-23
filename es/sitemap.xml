@@ -3,7 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://paltanoodles.com/es/blog/</loc>
+    <lastmod>2019-07-23T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paltanoodles.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paltanoodles.com/es/blog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://paltanoodles.com/es/categories/</loc>
+    <lastmod>2019-07-23T19:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -18,7 +35,23 @@
   </url>
   
   <url>
+    <loc>https://paltanoodles.com/es/blog/hello-world/</loc>
+    <lastmod>2019-07-23T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paltanoodles.com/blog/hello-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paltanoodles.com/es/blog/hello-world/"
+                />
+  </url>
+  
+  <url>
     <loc>https://paltanoodles.com/es/</loc>
+    <lastmod>2019-07-23T19:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -29,6 +62,54 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://paltanoodles.com/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paltanoodles.com/es/categories/argentina/</loc>
+    <lastmod>2019-07-23T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paltanoodles.com/categories/argentina/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paltanoodles.com/es/categories/argentina/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paltanoodles.com/es/categories/buenos-aires/</loc>
+    <lastmod>2019-07-23T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paltanoodles.com/categories/buenos-aires/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paltanoodles.com/es/categories/buenos-aires/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paltanoodles.com/es/categories/introduction/</loc>
+    <lastmod>2019-07-23T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paltanoodles.com/categories/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paltanoodles.com/es/categories/introduction/"
                 />
   </url>
   
